@@ -19,6 +19,6 @@
 <c:forEach items="${paramValues.menu}" var="food" varStatus="i">
 	${i.count} - ${food} 
 </c:forEach>
-
+<a href="step-7.jsp">step-7.jsp로 이동</a>
 </body>
 </html>
